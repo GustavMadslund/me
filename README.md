@@ -1,1 +1,1 @@
-# me
+# Respository containing resume and other files about me
